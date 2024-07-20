@@ -2,7 +2,7 @@
 <h1 align="center">Hia fellas 👋, I'm Arin Jain</h1>
 <h3 align="center">A reliable fullstack/software/game developer from India : )</h3>
 
-<img align = "right" alt = "Coffee boi" width = "300" src ="https://c.tenor.com/pCThnwjT7awAAAAd/tenor.gif">
+<img align = "right" alt = "Coffee boi" width = "270" src ="https://c.tenor.com/pCThnwjT7awAAAAd/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancerhawk&label=Profile%20views&color=0e75b6&style=flat" alt="lancerhawk" /> </p>
 
@@ -16,8 +16,8 @@
 
 - ⚡ Fun fact **I watch anime a lot, also i love playing games a lot : )**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/arin_jain420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arin_jain420" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arin (eren) jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arin (eren) jain" height="30" width="40" /></a>
 <a href="https://instagram.com/lancer_hawk_tuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lancer_hawk_tuah" height="30" width="40" /></a>
