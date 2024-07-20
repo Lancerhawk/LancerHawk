@@ -1,6 +1,8 @@
 <h1 align="center">Hia fellas 👋, I'm Arin Jain</h1>
 <h3 align="center">A reliable fullstack/software/game developer from India : )</h3>
 
+<img align = "right" alt = "Coffee boi" width = "400" src ="https://c.tenor.com/pCThnwjT7awAAAAd/tenor.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancerhawk&label=Profile%20views&color=0e75b6&style=flat" alt="lancerhawk" /> </p>
 
 - 🔭 I’m currently working on a game [Project xray](currently underdevelopment)
