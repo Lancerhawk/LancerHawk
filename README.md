@@ -8,7 +8,7 @@
   
 ### 『 LOADING PLAYER DATA... 』
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+Code+%2B+Caffeine;AI+Hacker+%7C+Hackathon+Warrior;Founder+%40+Coding+Era!;Building+Real-Time+Systems;Anime+%7C+Chess+%7C+Strategy+Games)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Hacker+%7C+Hackathon+Warrior;Founder+%40+Coding+Era!;Building+Real-Time+Systems;Anime+%7C+Chess+%7C+Strategy+Games;Code+%2B+Caffeine+%3D+Magic)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=lancerhawk&label=VISITORS&color=00ff00&style=for-the-badge" alt="Profile Views" />
 
@@ -16,31 +16,37 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-### 🎮 PLAYER STATS
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> PLAYER STATS
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const arinJain = {
     role: "Full Stack Developer",
     level: "BTech CSE Student",
-    location: "Jabalpur, Madhya Pradesh 📍",
-    currentQuest: "Web Dev @ SleekSky Technologies",
+    location: "Jabalpur, MP 📍",
+    currentQuest: "Web Dev @ SleekSky",
     
     stats: {
         hackathons: "20+",
-        projects: "15+ Production-Ready",
+        projects: "15+ Production",
         coffeeConsumed: "∞",
-        animeWatched: "Too many to count"
+        animeWatched: "Too many"
     },
     
     achievements: [
-        "🏆 AI Healthcare Hackathon - Winner (1st/120)",
-        "🥈 Smart India Hackathon 2024 - Finalist (Top 5/400+)",
-        "🎯 HackOrbit 2025 - 8th Place (National)"
+        "🏆 AI Healthcare Winner (1/120)",
+        "🥈 SIH 2024 Finalist (Top 5/400+)",
+        "🎯 HackOrbit 8th (National)"
     ]
 };
 ```
+
+<br clear="right"/>
 
 ### ⚔️ CURRENT MISSIONS
 
@@ -148,14 +154,28 @@ Winner of AI in Healthcare Hackathon (1st/120 teams).
 
 ---
 
-### 📊 BATTLE STATS
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> BATTLE STATS
+
+</div>
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lancerhawk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lancerhawk&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lancerhawk&theme=tokyo-night&hide_border=true&area=true" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lancerhawk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lancerhawk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lancerhawk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lancerhawk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -223,7 +243,7 @@ IEEE Vice Chair - BGIEM:
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad."
 
-![Snake animation](https://raw.githubusercontent.com/Lancerhawk/Lancerhawk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
