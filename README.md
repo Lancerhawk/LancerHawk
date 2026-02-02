@@ -1,16 +1,14 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ARIN%20JAIN&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Gaming%20Enthusiast&descSize=20&descAlignY=55&animation=twinkling)
+# ARIN JAIN
 
-</div>
-
-<div align="center">
-  
 ### 『 LOADING PLAYER DATA... 』
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Hacker+%7C+Hackathon+Warrior;Founder+%40+Coding+Era!;Building+Real-Time+Systems;Anime+%7C+Chess+%7C+Strategy+Games;Code+%2B+Caffeine+%3D+Magic)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=lancerhawk&label=VISITORS&color=00ff00&style=for-the-badge" alt="Profile Views" />
+
+### 💭 "Code is like humor. When you have to explain it, it's bad."
 
 </div>
 
@@ -241,10 +239,6 @@ IEEE Vice Chair - BGIEM:
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad."
-
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
