@@ -1,6 +1,15 @@
-# 💫 About Me:
-I build scalable backend systems and developer tooling focused on performance and reliability. <br>My work revolves around distributed architectures, ingestion pipelines, and cloud infrastructure built for real production environments.
+# 💫 About Me
+I’m Arin Jain, a computer science student and full-stack developer who enjoys building systems that actually solve problems rather than just small demo projects. I focus on understanding how things work end-to-end—from the architecture and backend logic to the frontend experience.
 
+My main stack includes JavaScript/TypeScript, React, Node.js, PostgreSQL, and modern cloud tools. I like working across the full stack, designing APIs, building scalable backend systems, and creating clean, responsive interfaces. I’m particularly interested in areas like distributed systems, developer tooling, and scalable application design.
+
+Currently, I’m working as a Full-Stack Developer Intern at SleekSky Technologies, where I’m involved in backend development for a customizable game creation platform. My role involves building REST APIs, managing database schemas, handling cloud-based workflows, and integrating backend systems with a modern frontend.
+
+Outside of internships, I spend a lot of time building projects that push my technical understanding. I’ve worked on tools like a production crash detection system that integrates with VS Code, a community-driven learning platform for tracking programming progress, and a real-time project management system with collaborative features. These projects helped me get deeper into system design, performance optimization, and real-world application architecture.
+
+Beyond coding, I’m also active in the tech community. I founded a student tech community where I organize workshops and help other students get into programming, and I’ve been involved in technical events and training sessions through organizations like IEEE and Google student programs.
+
+Overall, I’m someone who likes building, experimenting, and understanding systems deeply, with the long-term goal of creating impactful software products and developer tools.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RSCA78EY) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lancer_hawk_tuah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arin-jain-782098258/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:70001933arin@gmail.com) 
