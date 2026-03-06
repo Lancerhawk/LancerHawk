@@ -5,10 +5,6 @@ My main stack includes JavaScript/TypeScript, React, Node.js, PostgreSQL, and mo
 
 Currently, I’m working as a Full-Stack Developer Intern at SleekSky Technologies, where I’m involved in backend development for a customizable game creation platform. My role involves building REST APIs, managing database schemas, handling cloud-based workflows, and integrating backend systems with a modern frontend.
 
-Outside of internships, I spend a lot of time building projects that push my technical understanding. I’ve worked on tools like a production crash detection system that integrates with VS Code, a community-driven learning platform for tracking programming progress, and a real-time project management system with collaborative features. These projects helped me get deeper into system design, performance optimization, and real-world application architecture.
-
-Beyond coding, I’m also active in the tech community. I founded a student tech community where I organize workshops and help other students get into programming, and I’ve been involved in technical events and training sessions through organizations like IEEE and Google student programs.
-
 Overall, I’m someone who likes building, experimenting, and understanding systems deeply, with the long-term goal of creating impactful software products and developer tools.
 
 ## 🌐 Socials:
