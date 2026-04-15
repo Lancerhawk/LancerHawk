@@ -4,7 +4,7 @@ Full-Stack Developer focused on **scalable systems, backend architecture, and mo
 
 I enjoy building software that solves real problems instead of small demo projects. My work mainly revolves around designing backend systems, building APIs, managing databases, and creating responsive frontends that integrate cleanly with distributed services.
 
-Currently working as a **Web-Stack Developer Intern at SleekSky LLC**, contributing to backend development for a customizable game creation platform.
+Currently building backend systems and scalable web applications, focusing on API design, distributed workflows, and performance optimization.
 
 My interests include:
 
