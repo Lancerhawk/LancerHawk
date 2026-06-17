@@ -155,11 +155,11 @@ My interests include:
 
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Lancerhawk&theme=shadow_green&show_icons=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=Lancerhawk&theme=shadow_green&show_icons=true&include_all_commits=true&hide_rank=true)
 
 ![](https://streak-stats.demolab.com?user=Lancerhawk&theme=shadow_green)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancerhawk&layout=compact&theme=shadow_green&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancerhawk&layout=compact&theme=shadow_green&langs_count=10&hide=html,css,scss)
 
 ---
 
