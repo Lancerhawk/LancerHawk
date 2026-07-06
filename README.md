@@ -152,20 +152,25 @@ My interests include:
 </div>
 
 ---
-
 # GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lancerhawk&theme=shadow_green&show_icons=true&include_all_commits=true&hide_rank=true"/>
+<table align="center">
+<tr>
+<td>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lancerhawk&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=github_dark&bg_color=0d1117&title_color=00ff7f&text_color=c9d1d9&icon_color=00ff7f&border_color=238636"/>
+</td>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=Lancerhawk&theme=shadow_green"/>
-</p>
+<td>
+<img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=Lancerhawk&background=0D1117&border=238636&stroke=238636&ring=00FF7F&fire=00FF7F&currStreakNum=FFFFFF&currStreakLabel=00FF7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
+</td>
+</tr>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancerhawk&layout=compact&theme=shadow_green&langs_count=10&hide=html,css,scss"/>
-</p>
-
----
+<tr>
+<td colspan="2" align="center">
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lancerhawk&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&theme=github_dark&bg_color=0d1117&title_color=00ff7f&text_color=c9d1d9&border_color=238636"/>
+</td>
+</tr>
+</table>
 
 # Current Focus
 
